@@ -1,5 +1,6 @@
 import '../node_modules/bootstrap3/dist/css/bootstrap.min.css'
 import '../node_modules/font-awesome/css/font-awesome.min.css'
+import './template/custom.css'
 
 import React, { Component } from 'react';
 import Menu from './template/Menu'
