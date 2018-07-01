@@ -10,6 +10,7 @@ export default props =>(
 
         <div className='col-xs-1 col-sm-3 col-md-2'>
             <Button stylize='primary' icon='plus' onClick={props.handleAdd}></Button>
+            <Button stylize='info' icon='search' onClick={props.handleSearch}></Button>
         </div>
    </div>
 )
